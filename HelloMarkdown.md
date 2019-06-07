@@ -13,6 +13,6 @@ top 	anger 	:anger: 	exclamation 	:exclamation:
 top 	question 	:question:
 
 #### Favourite Quote 
- **Walk, crawl, Run, Fly, Gotta keep moving.**
+**Walk, crawl, Run, Fly, Gotta keep moving." Martin Luther King " **
 
 [GitHub](http://github.com/kamrold)
